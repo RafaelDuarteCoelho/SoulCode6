@@ -1,0 +1,52 @@
+.autor{
+	color: ghostwhite;
+}
+
+body{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, navy, blue 15%, cyan 100%);
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1 {
+	text-align: center
+}
+
+.titleName{
+	font-size: 40px
+}
+
+fieldset{
+	width: 300px;
+	margin: 100px auto;
+	border-color: teal;
+	border-width: 15px;
+	background-color: whitesmoke;
+}
+
+form{
+	line-height: 20px;
+}
+
+button{
+	background-color: snow;
+	block-size: 25px;
+	border-block-color: skyblue;
+	font-weight: bolder;
+	
+}
+
+button:focus{
+	background-color: teal;
+	block-size: 35px;
+	border-block-color: teal;
+	
+}
+
+.write{
+	width:100%;
+}
+
+.terms{
+	font-style: italic
+}
